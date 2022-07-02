@@ -10,3 +10,5 @@ i came here exactly for conflict hehehe)
 Hello, this message for you *hi*
 
 Nice to meet ya)
+
+Новые изменения в файле
